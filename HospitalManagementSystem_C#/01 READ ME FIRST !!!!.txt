@@ -1,0 +1,8 @@
+HOSPITAL MANAGEMENT SYSTEM IN C#
+
+**Login Details**
+
+USERNAME : admin
+PASSWORD : pass
+
+ 
